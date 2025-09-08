@@ -33,6 +33,9 @@ All packed into a neat browser extension!
 
 ### 📂 Project Structure
 
+<img width="823" height="303" alt="User Query (1)" src="https://github.com/user-attachments/assets/a4cca67a-e414-4f33-af85-e80c7d6813ea" />
+
+
 ```
 📦 stock-chat-Bot-extension
 ├── app.py
