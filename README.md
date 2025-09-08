@@ -7,11 +7,11 @@ A Chrome extension powered by Selenium, FastAPI, and LangChain that lets you int
 
 Get insights like:
 
-✅ Best & worst performing stocks
-✅ Info about a single stock
-✅ Latest stock news
-✅ Charts of specific stocks (1D, 1Y, 5Y, etc.)
-✅ Sector-wise stock performance
+- ✅ Best & worst performing stocks
+- ✅ Info about a single stock
+- ✅ Latest stock news
+- ✅ Charts of specific stocks (1D, 1Y, 5Y, etc.)
+- ✅ Sector-wise stock performance
 
 All packed into a neat browser extension!
 
