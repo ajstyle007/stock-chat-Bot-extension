@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Stock ChatBot",
+    "version": "1.0",
+    "description": "A Chrome extension for chatting about stocks using a local FastAPI backend",
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ],
+    "host_permissions": [
+      "http://localhost:9000/*",
+      "https://www.tradingview.com/chart*",
+      "http://localhost:8000/*",
+      "https://www.tradingview.com/markets/stocks-usa/market-movers-gainers/*"
+    ],
+    "action": {
+      "default_popup": "popup.html"
+    }  }
+  
