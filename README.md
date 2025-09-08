@@ -34,7 +34,7 @@ All packed into a neat browser extension!
 ### 📂 Project Structure
 
 ```
-📦 stock-chat-extension
+📦 stock-chat-Bot-extension
 ├── app.py
 ├── sel.py # Selenium stock scraping
 ├── popup.html
@@ -50,8 +50,8 @@ All packed into a neat browser extension!
 #### 1️⃣ Clone the repo
 ```
 
-git clone https://github.com/your-username/stock-chat-extension.git
-cd stock-chat-extension
+git clone https://github.com/ajstyle007/stock-chat-Bot-extension.git
+cd stock-chat-Bot-extension
 
 ```
 
