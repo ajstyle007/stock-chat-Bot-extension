@@ -2,6 +2,8 @@
 
 A Chrome extension powered by Selenium, FastAPI, and LangChain that lets you interact with the stock market through a chat interface.
 
+You can also read the blog how to make this project: [Click here for the Blog](https://medium.com/@kumarajaypaonta/behind-the-code-building-a-stock-market-chatbot-with-fastapi-selenium-and-langchain-b21e5dc88c6b)
+
 <img width="1169" height="836" alt="Screenshot 2025-09-08 131610" src="https://github.com/user-attachments/assets/03ba5aa8-33ab-48f1-ba75-60fa3a61cf19" />
 
 
